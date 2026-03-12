@@ -1,5 +1,7 @@
 <h1 align="center">Hello there ! I'm Raphaël Denni, a French IT student !</h1>
 
+<strong>Go check my [Codeberg page](https://codeberg.org/raphael-denni)! I will use it in replacement of Github.</strong>
+
 ###
 
 <div align="center">
@@ -52,3 +54,7 @@
 </div>
 
 ###
+
+<div align="center">
+  <img width="282" alt="get-it-on-codeberg" src="https://github.com/user-attachments/assets/9c8f3723-edf9-49da-9aa9-e0740220bd82" />
+</div>

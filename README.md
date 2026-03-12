@@ -56,5 +56,7 @@
 ###
 
 <div align="center">
-  <img width="282" alt="get-it-on-codeberg" src="https://github.com/user-attachments/assets/9c8f3723-edf9-49da-9aa9-e0740220bd82" />
+  <a href="https://codeberg.org/raphael-denni">
+    <img width="282" alt="get-it-on-codeberg" src="https://github.com/user-attachments/assets/9c8f3723-edf9-49da-9aa9-e0740220bd82" />
+  </a>
 </div>

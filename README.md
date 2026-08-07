@@ -16,7 +16,7 @@ Currently a master student at CESI Ecole d'ingénieurs x THM Fachhochschule.
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest//icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/rust-lang/rust-artwork/refs/heads/master/logo/rust-logo-white-outline.svg" height="40" alt="rust logo"  />
+  <img src="https://www.rustacean.net/assets/rustacean-flat-happy.svg" height="40" alt="rust logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest//icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
